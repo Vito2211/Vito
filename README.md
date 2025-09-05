@@ -11,3 +11,9 @@ Later, I focused on **C++**, often working with **Raylib**.
 
 My favorite project is a **raycast engine in C++**,  
 which I’m now using as the foundation for an **online shooter** I’m developing in my free time.
+
+## 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
