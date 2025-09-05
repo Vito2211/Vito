@@ -1,7 +1,14 @@
 # 👋 Hi, I’m Vito
 Welcome to my personal repository!
 
-# Hi everyone! 👋
+## 💡 About Me
+- 🌱 Programming for a couple of years  
+- 🖥️ Started with **HTML, CSS, JS**  
+- ⚙️ Moved into **C and C++** (with Raylib)  
+- 🎮 Favorite project: a **raycast engine**, now evolving into an **online shooter**  
+
+
+
 
 I’ve been into programming for a couple of years now and decided to create an account here.  
 During this time, I explored different languages and built a few projects.  
