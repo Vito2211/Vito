@@ -1,5 +1,6 @@
-# Vito
-My personal repository
+# 👋 Hi, I’m Vito
+Welcome to my personal repository!
+
 # Hi everyone! 👋
 
 I’ve been into programming for a couple of years now and decided to create an account here.  
