@@ -6,7 +6,7 @@ Welcome to my personal repository!
 - 🖥️ Started with **HTML, CSS, JS**  
 - ⚙️ Moved into **C and C++** (with Raylib)  
 - 🎮 Favorite project: a **raycast engine**, now evolving into an **online shooter**  
-
+- 🍏 Currently exploring **Swift development**  
 
 
 
@@ -19,6 +19,10 @@ Later, I focused on **C++**, often working with **Raylib**.
 
 My favorite project is a **raycast engine in C++**,  
 which I’m now using as the foundation for an **online shooter** I’m developing in my free time.
+
+Most recently, I’ve been moving towards **Swift development**,  
+exploring mobile and Apple ecosystem programming.
+
 
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
