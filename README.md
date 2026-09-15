@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Vito
+#  Hi, I’m Vito
 Welcome to my personal repository!
 
-## 💡 About Me
-- 🌱 Programming for a couple of years  
-- 🖥️ Started with **HTML, CSS, JS**  
-- ⚙️ Moved into **C and C++** (with Raylib)  
-- 🎮 Favorite project: a **raycast engine**, now evolving into an **online shooter**  
-- 🍏 Currently exploring **Swift development**  
+##  About Me
+-  Programming for a couple of years  
+-  Started with **HTML, CSS, JS**  
+-  Moved into **C and C++** (with Raylib)  
+-  Favorite project: a **raycast engine**, now evolving into an **online shooter**  
+-  Currently exploring **Swift development**  
 
 
 
